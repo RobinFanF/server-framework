@@ -1,0 +1,16 @@
+logs:
+    - name: root
+      level : error
+      appenders:
+          - type: StdoutLogAppender
+            level: info
+          - type: FileLogAppender
+            level: info
+            file: /home/bing/mycode2022/server-framework/logs/root.txt
+            formatter: "%d{%Y-%m-%d %H:%M:%S}%T%N%T[%p]%T[%c]%T%m%n"
+    - name: system
+      level: info
+      appenders:
+          - type: StdoutLogAppender
+            level: info
+        

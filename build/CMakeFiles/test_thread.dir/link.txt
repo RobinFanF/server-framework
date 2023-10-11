@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -rdynamic -O3 -fPIC -ggdb -std=c++11 -Wall -Wno-deprecated  -Wno-unused-function -Wno-builtin-macro-redefined -Wno-deprecated-declarations -rdynamic CMakeFiles/test_thread.dir/tests/test_thread.cpp.o -o ../bin/test_thread  -Wl,-rpath,/home/bing/mycode2022/server-framework/lib ../lib/libmyserver.so -lpthread -ldl /usr/local/lib/x86_64-linux-gnu/libyaml-cpp.a 

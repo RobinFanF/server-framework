@@ -1,0 +1,11 @@
+/home/bing/mycode2022/server-framework/build/CMakeFiles/myserver.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/test_log.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/test_config.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/test_thread.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/test_utils.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/test_fiber.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/test_scheduler.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/test_iomanager.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/test_hook.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/edit_cache.dir
+/home/bing/mycode2022/server-framework/build/CMakeFiles/rebuild_cache.dir
